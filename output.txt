@@ -1,0 +1,19 @@
+//output
+node exercise.js
+connecting to database...
+
+dropping old data...
+
+running function...
+
+The most expensive object is the cloak
+The cloak started with 300 charges.
+Using cloak...
+The cloak has 275 charges left.
+Found one: cloak
+Found 3 magic objects
+
+
+disconnecting from database...
+
+complete!
